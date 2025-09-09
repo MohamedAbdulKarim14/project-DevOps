@@ -85,9 +85,4 @@ This project follows a **GitOps** deployment model using **ArgoCD**:
 6. Access Grafana dashboards for real-time metrics
 
 
-## 📬 Contact
 
-**Eman Abdelhamed**  
-DevOps Engineer 
-
-emanabdelhami126@gmail.com
